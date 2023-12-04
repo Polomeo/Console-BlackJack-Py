@@ -173,6 +173,5 @@ class Game:
 
 
 # Main loop
-# Página 37 del libro (48 del PDF)
 if __name__ == "__main__":
     game = Game()
